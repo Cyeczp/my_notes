@@ -9,6 +9,8 @@
 构建检索问答链见代码task04.ipynb
 
 ​		在部署知识库助手中，教程所用模型为chatGPT，本文使用GML，见代码streamlit.py。在部署过程中遇到一个问题，
+https://github.com/Cyeczp/my_notes/blob/main/%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/2024-06llm/imgs/image-20240626180118692.png
+
 
 ![image-20240626180118692](.\imgs\image-20240626180118692.png)
 
