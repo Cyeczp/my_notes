@@ -10,10 +10,10 @@
 
 ​		在部署知识库助手中，教程所用模型为chatGPT，本文使用GML，见代码streamlit.py。在部署过程中遇到一个问题，
 
-![image-20240626180118692](C:\Users\90930\AppData\Roaming\Typora\typora-user-images\image-20240626180118692.png)
+![image-20240626180118692](imgs\image-20240626180118692.png)
 
 报错，添加”“成功解决。
 
-![image-20240626180216858](C:\Users\90930\AppData\Roaming\Typora\typora-user-images\image-20240626180216858.png)
+![image-20240626180216858](imgs\image-20240626180216858.png)
 
-![image-20240626180245506](C:\Users\90930\AppData\Roaming\Typora\typora-user-images\image-20240626180245506.png)
+![image-20240626180245506](imgs\image-20240626180245506.png)
