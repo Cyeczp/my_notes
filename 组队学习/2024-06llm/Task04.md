@@ -12,10 +12,12 @@
 ![image](https://github.com/Cyeczp/my_notes/blob/main/%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/2024-06llm/imgs/image-20240626180118692.png)
 
 
-![image-20240626180118692](.\imgs\image-20240626180118692.png)
 
 报错，添加”“成功解决。
 
-![image-20240626180216858](imgs\image-20240626180216858.png)
+![image](https://github.com/Cyeczp/my_notes/blob/main/%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/2024-06llm/imgs/image-20240626180216858.png)
 
-![image-20240626180245506](imgs\image-20240626180245506.png)
+
+![image](https://github.com/Cyeczp/my_notes/blob/main/%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/2024-06llm/imgs/image-20240626180245506.png)
+
+
